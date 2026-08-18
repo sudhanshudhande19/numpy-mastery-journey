@@ -1,4 +1,5 @@
-# Use np.linalg.inv() to find the inverse of a (2,2) matrix, then verify that matrix @ inverse gives (approximately) the identity matrix.
+# Use np.linalg.inv() to find the inverse of a (2,2) matrix, then verify 
+# that matrix @ inverse gives (approximately) the identity matrix.
 
 import numpy as np
 

@@ -8,3 +8,5 @@ arr = np.random.randint(1,10,size=(2,3))
 arr2 = np.random.randint(1,10,size=(3,2))
 
 print(np.matmul(arr, arr2))
+
+print(arr @ arr2) 
