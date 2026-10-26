@@ -5,3 +5,4 @@ arr = np.arange(0,50,5)
 print(arr)
 arr= np.linspace(0,1,10)
 print(arr)
+

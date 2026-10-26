@@ -1,14 +1,31 @@
+<!-- ========== ANIMATED HEADER (gradient background wave) ========== -->
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b263b,100:22d3ee&height=220&section=header&text=NumPy%20Mastery%20Journey&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=From%20zero%20to%20vectorized%20thinking&descSize=18&descAlignY=60" width="100%" alt="header" />
+
 ![NumPy Mastery Journey Banner](./banner.svg)
+
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=10-Day+NumPy+Practice+Journey;Arrays+%E2%86%92+Broadcasting+%E2%86%92+Capstone;Think+Vectorized.+No+Loops." alt="Typing SVG" />
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=22d3ee)
+![Days](https://img.shields.io/badge/Days-10-22d3ee?style=for-the-badge&labelColor=1b263b)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&labelColor=1b263b)
 
 </div>
 
 A structured 10-day practice journey to build strong, practical NumPy fundamentals — from basic array creation to a full capstone project. Every day includes hands-on problems, real explanations of the "why" behind each concept, and a dedicated README documenting what was learned.
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b263b,100:22d3ee&height=4" width="100%" alt="divider" />
+
 ## 🎯 Goal
 
 Go from zero to confidently using NumPy for data manipulation, numerical computing, and array-based problem solving — without loops, using vectorized thinking.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b263b,100:22d3ee&height=4" width="100%" alt="divider" />
 
 ## 🗂️ Repository Structure
 
@@ -134,5 +151,8 @@ The final project — every concept from Day 1 to Day 9 combined into one comple
 
 ### ✨ Made by **Sudhanshu Dhande** ✨
 [![GitHub](https://img.shields.io/badge/GitHub-sudhanshudhande19-1b263b?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/sudhanshudhande19)
+
+<!-- ========== FOOTER WAVE (gradient background) ========== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:1b263b,100:0d1b2a&height=140&section=footer" width="100%" alt="footer" />
 
 </div>
